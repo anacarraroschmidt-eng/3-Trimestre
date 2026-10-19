@@ -25,47 +25,53 @@ criarCartao(
 criarCartao(
     'Geografia',
     'Por que ocorrem os terremotos?',
-    'Porque ocorre uma liberação repentina de energia devido ao movimento das placas tectônicas',
+    'Porque ocorre uma liberação repentina de energia devido ao movimento das placas tectônicas.',
 )
 
 criarCartao(
     'Ciências',
     'O que é o efeito estufa?',
-    'È um fenômeno natural em que gases da atmosfera retêm parte do calor recebido pela Terra',
+    'È um fenômeno natural em que gases da atmosfera retêm parte do calor recebido pela Terra.',
 )
 
 criarCartao(
     'Ciências',
     'Por que temos diferentes estações do ano?',
-    'Porque o e',
+    'Porque o eixo da Terra é inclinado e o planeta realiza o movimento de translação ao redor do Sol.',
 )
 
 criarCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta',
+    'Biologia',
+    'O que é a fotossíntese?',
+    'E o processo pelo qual as plantas produzem seu próprio alimento ultilizando luz, água e gás carbônico.',
 )
 
 criarCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta',
+    'Biologia',
+    'Qual é a função dos glóbulos vermelhos?',
+    'Transportar oxigênio dos pulmões para os tecidos do corpo.',
 )
 
 criarCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta',
+    'Química',
+    'Por que a água é considerada uma substância polar?',
+    'Porque possui uma distribuição desigual de carga elétrica entre seus átomos.',
 )
 
 criarCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta',
+    'Química',
+    'O que acontece em uma reação de combustão?',
+    'Uma substância reage com o oxigênio, liberando energia n aforma de calor e, muitas vezes luz.',
 )
 
 criarCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta',
+    'Física',
+    'Por que um objeto cai quando é solto?',
+    'Porque a força da gravidade da Terra atrai os objetos em direção ao seu centro',
+)
+
+criarCartao(
+    'Física',
+    'Por que o gelo flutua na água?',
+    'Porque o gelo possui menor densidade que a água liquida.',
 )
