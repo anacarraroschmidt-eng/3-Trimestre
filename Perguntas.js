@@ -29,15 +29,15 @@ criarCartao(
 )
 
 criarCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta',
+    'Ciências',
+    'O que é o efeito estufa?',
+    'È um fenômeno natural em que gases da atmosfera retêm parte do calor recebido pela Terra',
 )
 
 criarCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta',
+    'Ciências',
+    'Por que temos diferentes estações do ano?',
+    'Porque o e',
 )
 
 criarCartao(
