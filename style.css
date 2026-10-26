@@ -32,10 +32,16 @@ padding: 2rem;
 font-size: 1.4vw;
 }
 
-.cartao  conteudo  pergunta{
-
+.cartao  conteudo  pergunta p{
+color: var(--cor-texto); 
+   font-weight: 500;
 }
 
 .cartao  conteudo  resposta{
+olor: var(--verso-cartao);
+    font-weight: 700;
+}
 
+.cartao.active .cartao__conteudo{
+    transform: rotate(180deg);
 }
