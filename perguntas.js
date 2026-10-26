@@ -5,14 +5,14 @@ criarCartao(
 )
 
 criarCartao(
-    'História'
-    'Por que da nomenclatura "Guerra Fria?"'
-    'Porque não houve um confronto militar direto entre os participantes da guerra'
+    'História',
+    'Por que da nomenclatura "Guerra Fria?"',
+    'Porque não houve um confronto militar direto entre os participantes da guerra',
 )
 
 criarCartao(
     'História',
-    'Por que ocorreu a Revolução Francesa?'
+    'Por que ocorreu a Revolução Francesa?',
     'Porque havia uma forte desigualdade social, crise econômica e insatisfação com o sistema político',
 )
 
