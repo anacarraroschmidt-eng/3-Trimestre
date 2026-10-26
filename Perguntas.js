@@ -73,5 +73,5 @@ criarCartao(
 criarCartao(
     'Física',
     'Por que o gelo flutua na água?',
-    'Porque o gelo possui menor densidade que a água liquida.',
+    'Porque o gelo possui menor densidade que a água líquida.',
 )
