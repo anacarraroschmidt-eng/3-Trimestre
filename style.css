@@ -45,3 +45,5 @@ olor: var(--verso-cartao);
 .cartao.active .cartao__conteudo{
     transform: rotate(180deg);
 }
+
+

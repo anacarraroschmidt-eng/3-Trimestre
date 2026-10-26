@@ -7,19 +7,19 @@ criarCartao(
 criarCartao(
     'História',
     'Por que da nomenclatura "Guerra Fria?"',
-    'Porque não houve um confronto militar direto entre os participantes da guerra',
+    'Porque não houve um confronto militar direto entre os participantes da guerra.',
 )
 
 criarCartao(
     'História',
     'Por que ocorreu a Revolução Francesa?',
-    'Porque havia uma forte desigualdade social, crise econômica e insatisfação com o sistema político',
+    'Porque havia uma forte desigualdade social, crise econômica e insatisfação com o sistema político.',
 )
 
 criarCartao(
     'História',
     'O que foi a Revolução Industrial?',
-    'Foi um período de grandes transformações na produção, marcado pela mecanização e pelo surgimento das fábricas',
+    'Foi um período de grandes transformações na produção, marcado pela mecanização e pelo surgimento das fábricas.',
 )
 
 criarCartao(
@@ -67,7 +67,7 @@ criarCartao(
 criarCartao(
     'Física',
     'Por que um objeto cai quando é solto?',
-    'Porque a força da gravidade da Terra atrai os objetos em direção ao seu centro',
+    'Porque a força da gravidade da Terra atrai os objetos em direção ao seu centro.',
 )
 
 criarCartao(
