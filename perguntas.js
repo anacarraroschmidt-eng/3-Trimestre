@@ -1,8 +1,3 @@
-criarCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta',
-)
 
 criarCartao(
     'História',
